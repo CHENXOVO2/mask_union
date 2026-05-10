@@ -1,3 +1,3 @@
-# mask_union
+# pictures_union
 各种类型的图片
 
